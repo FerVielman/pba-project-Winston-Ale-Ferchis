@@ -9,3 +9,4 @@ We plan to analyse customer churn and predict purchase behaviour using transacti
 
 #Potential Data Sources: 
 Using the data from Kaggle
+https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics
